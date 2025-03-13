@@ -1,0 +1,21 @@
+{
+  "name": "Muay Thai Idle Fight",
+  "short_name": "MT Idle Fight",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e0e0e",
+  "lang": "en",
+  "scope": "./",
+  "description": "An idle training and turn-based fighting game based on Muay Thai",
+  "theme_color": "#e31c25",
+  "icons": [
+    { "src": "pwa-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "pwa-512x512.png", "sizes": "512x512", "type": "image/png" },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
